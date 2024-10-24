@@ -13,8 +13,8 @@
     "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "https://your.url.from.vercel.app",
-    "APP_KEY": "base64:n+RtML+vaApjLzhzQ2f4cpedWcGXt9hpF4r7ci1vBTw=",
+    "APP_URL": "https://vercel.com/yasmines-projects-2bd4d09a",
+    "APP_KEY": "base64:30GZHQS2Tg4dKuf+ADGKxoOhvdkv+JPiYyhqsdwYetY=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
     "APP_PACKAGES_CACHE": "/tmp/packages.php",
