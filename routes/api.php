@@ -25,6 +25,7 @@ Route::middleware('api')->group(function () {
     Route::middleware('api')->group(function () {
         Route::resource('articles', ArticleController::class);
         });
+        
     Route::get('/articles/art/articlespaginate', [ArticleController::class,
 'articlesPaginate']);
         
